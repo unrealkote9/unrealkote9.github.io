@@ -1,0 +1,46 @@
+body {
+  background-color: #aaaaaa;
+}
+
+.bold  {
+  font-weight: bold;  
+  }
+
+.bold-list  {
+  color: black;
+  font-weight: bold;  
+  }
+
+.text-italic-list {
+  color: black;
+  font-style: italic;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-decoration {
+  text-decoration: underline;
+}
+
+.border {
+  border: 2px solid;
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {  
+  text-align: center;
+}
+
+.imgCenter {
+  text-align: center;
+}

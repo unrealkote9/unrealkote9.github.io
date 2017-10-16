@@ -1,0 +1,57 @@
+.header {
+	background-color: #aaa;
+}
+.header-text{
+	padding-left: 50px	;
+}
+.footer {
+	height: 120px;
+	width: 100%;
+	background-color: white;
+}
+.footer p {
+	
+	display: inline-block;
+	color: black;
+	padding-left: 20px;
+}
+.text-left{
+	position: absolute;
+}
+.footer img {
+	display: inline-block;
+}
+.row {
+	padding-top: 20px;
+}
+.text-footer {
+	padding-top: 10px;
+	text-align: center;
+}
+.phone {
+	font-size: 18px;
+}
+.adress {
+	text-align: right;
+	margin-top: -5px;
+}
+.info{
+	top: -420px;
+	left: 50px;
+	height: 400px;
+	width: 380px;
+	background-color: #c60b0b;
+	position: absolute;
+}
+.info-center {
+	color: white;
+	padding: 40px;
+	text-align: center;
+}
+.info-center * {
+	margin-top: 25px;
+}
+.upper {
+	text-transform: uppercase;
+	font-size: 18px;
+}
